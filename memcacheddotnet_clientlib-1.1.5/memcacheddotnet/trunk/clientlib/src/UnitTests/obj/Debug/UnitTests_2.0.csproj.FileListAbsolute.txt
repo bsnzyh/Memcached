@@ -1,0 +1,9 @@
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\Memcached.UnitTests.exe
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\Memcached.UnitTests.pdb
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\Memcached.ClientLibrary.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\log4net.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\ICSharpCode.SharpZipLib.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\bin\2.0\Debug\Memcached.ClientLibrary.pdb
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\obj\Debug\UnitTests_2.0.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\obj\Debug\Memcached.UnitTests.exe
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\UnitTests\obj\Debug\Memcached.UnitTests.pdb

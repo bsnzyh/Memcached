@@ -1,0 +1,10 @@
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\Memcached.exe
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\Memcached.pdb
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\Commons.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\ICSharpCode.SharpZipLib.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\log4net.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\Memcached.ClientLibrary.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\bin\Debug\Memcached.ClientLibrary.pdb
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\obj\Debug\Memcached.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\obj\Debug\Memcached.exe
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\MemcachedDemo\Memcached\obj\Debug\Memcached.pdb

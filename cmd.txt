@@ -1,0 +1,2 @@
+memcached.exe -d start //windows中开启服务 
+memcached.exe -d stop //关闭服务,一旦关闭 数据丢失 

@@ -1,0 +1,10 @@
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\bin\2.0\Debug\Memcached.ClientLibrary.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\bin\2.0\Debug\Memcached.ClientLibrary.pdb
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\bin\2.0\Debug\Commons.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\bin\2.0\Debug\ICSharpCode.SharpZipLib.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\bin\2.0\Debug\log4net.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\obj\Debug\clientlib_2.0.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\obj\Debug\Memcached.ClientLibrary.StringMessages.resources
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\obj\Debug\clientlib_2.0.csproj.GenerateResource.Cache
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\obj\Debug\Memcached.ClientLibrary.dll
+I:\Study\Dot_Net_Code\00SpecialTechnology\02Memcached\memcacheddotnet_clientlib-1.1.5\memcacheddotnet\trunk\clientlib\src\clientlib\obj\Debug\Memcached.ClientLibrary.pdb
